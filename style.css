@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding:0;
+	font-family: sans-serif;
+}
+.menu-bar ul {
+	display: flex;
+	list-style: none;
+	background: #EAEDB6;
+}
+.menu-bar ul li {
+	background: #EDF68B;
+	padding: 20px;
+}
+.menu-bar ul li:hover {
+	background: #FC9797;
+}
+.tab-content {
+	display: none;
+}
